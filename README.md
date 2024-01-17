@@ -1,6 +1,8 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Advice generator app coding challenge](./design/desktop-design.jpg)
+
+[Preview Site](https://advice-generator-app-rho-teal.vercel.app/)
 
 ## Welcome! 👋
 
